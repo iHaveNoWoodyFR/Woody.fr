@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mon site Canva</title>
+<!--
+REMPLACEZ : collez ici le contenu HTML exporté depuis Canva.
+Exemple : ouvrez votre fichier exporté Canva (index.html ou le fichier principal)
+et collez tout son contenu entre les balises <head> et <body> selon besoin.
+-->
+</head>
+<body>
+<!-- PASTE_CANVA_HTML_HERE -->
+
+
+<!-- Optionnel : insérer le code Google AdSense ici si tu veux (après avoir vérifié les règles de Google) -->
+<!-- Ex :
+<script data-ad-client="ca-pub-XXXXXXXXXXXX" async
+src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+-->
+</body>
+</html>
